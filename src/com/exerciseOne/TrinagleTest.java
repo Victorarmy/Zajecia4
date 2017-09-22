@@ -8,7 +8,7 @@ public class TrinagleTest {
 
         TriangleUtilities triangleUtilities = new TriangleUtilities();
 
-        System.out.println(triangleUtilities.isRightTriagnle(rectangularTriangle));
+        System.out.println(triangleUtilities.isRightTriagnle(rightTriangle));
         System.out.println(triangleUtilities.isRightTriagnle(acuteTriangle));
         System.out.println(triangleUtilities.isRightTriagnle(obtuseTriangle));
     }
