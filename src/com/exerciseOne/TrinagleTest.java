@@ -2,7 +2,7 @@ package com.exerciseOne;
 
 public class TrinagleTest {
     public static void main(String[] args) {
-        Triangle rectangularTriangle = new Triangle(3,4,5);
+        Triangle rightTriangle = new Triangle(3,4,5);
         Triangle acuteTriangle = new Triangle(4,5,6);
         Triangle obtuseTriangle = new Triangle(6,7,9);
 
